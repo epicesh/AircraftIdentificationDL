@@ -1,0 +1,2 @@
+# Our hack is an AI detection type program which differentiates a military from a passenger aircraft. We plan to use many files and imports. 
+# We also are planning on creating an ABOUT page which describes our program and an accuracy graph which updates itself over time through a loop
